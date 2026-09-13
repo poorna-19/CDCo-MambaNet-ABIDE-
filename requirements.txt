@@ -1,0 +1,14 @@
+torch
+wandb
+scikit-learn
+pandas
+omegaconf
+hydra-core
+nibabel
+SimpleITK
+scipy
+tqdm
+nilearn
+requests
+causal-conv1d
+mamba-ssm
